@@ -20,7 +20,7 @@ const reply_markup = {
       {
         text: 'vsekroham',
         web_app: {
-          url: 'http://vue.mau0hezzz.ru/'
+          url: 'https://vue.mau0hezzz.ru/'
         }
       }
     ]
